@@ -125,7 +125,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Authors
 
-- Rajan - Initial work - [YourGithubUsername](https://github.com/neupane-rajan)
+- Rajan - (https://github.com/neupane-rajan)
 
 ## 🙏 Acknowledgments
 

@@ -2,7 +2,7 @@
 
 TaskMaster is a comprehensive Linux system management and monitoring tool that provides a user-friendly CLI interface for various system administration tasks. It features real-time system monitoring, process management, disk operations, network tools, and more.
 
-![Command Line Interface](https://raw.githubusercontent.com/yourusername/taskmaster/main/screenshots/cli.png)
+![Command Line Interface](https://raw.githubusercontent.com/neupane-rajan/CLI-Task-Manager/main/photo/project.png)
 
 ## 🌟 Features
 

@@ -174,7 +174,7 @@ class SystemTasks:
 
             print(f"{Fore.YELLOW}💾 Creating system backup...{Style.RESET_ALL}")
 
-            # Create backup with progress using pv if available
+            # Creating backup with progress using pv if available
             if shutil.which("pv"):
                 cmd = f"sudo tar czf - /etc /home | pv > {backup_name}"
                 os.system(cmd)  # Using os.system for pipe support
